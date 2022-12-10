@@ -1,4 +1,4 @@
-#  project "coffee-shop"
+#  Project "coffee-shop"
 ## About The Project:</h3>
    Это проект Украинской кофейни, с названием, легкой предисторией и слайдером, в котором представленны найменования видов кофе
 ## Installation:
