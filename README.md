@@ -1,10 +1,10 @@
 #  Project "coffee-shop"
 ## About The Project:</h3>
-   Это проект Украинской кофейни, с названием, легкой предисторией и слайдером, в котором представленны найменования видов кофе
+  This is a project of a Ukrainian coffee house, with a name, a light background and a slider, which presents the names of coffee types.
 ## Installation:
-1. Копируйте репозиторий с GitHub;
-2. Создайте виртуальное окружение;
-3. Запустите программу открыв папку "coffee_shop.html". 
+1. Copy the repository from GitHub;
+2. Create a virtual environment;
+3. Run the program by opening the folder "coffee_shop.html". 
 
 ## Built With:
   <ul>
